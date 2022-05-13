@@ -7,5 +7,4 @@ Proyectos desarrollados en la semana 3:
 |`fizzbuzz`|1, 2 ,3 |[Link al repo](https://github.com/Alexis96-2/fizzbuzz)|
 |`PR`|4|[Link al repo](https://github.com/Alexis96-2/fizzbuzz-1)|
 |`Code Challenge`|5|[Link al repo](https://github.com/Alexis96-2/Code-Challenge)|
-|`Trello`|6|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
-|`Trello JS Fork`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+|`Trello JS Fork`|6, 7|[Link al repo](https://github.com/Alexis96-2/Trello-JS-Fork)|
